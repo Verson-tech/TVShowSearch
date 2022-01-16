@@ -1,6 +1,6 @@
 
-## [My project](https://verson-tech.github.io/TVShowSearch/)
+## [Link to my project: 'TV Show SEARCH'](https://verson-tech.github.io/TVShowSearch/)
 
  [UDEMY](https://www.udemy.com/)
 
- Starter code is takem from "The Web Developer Bootcamp 2022" by Colt Steele
+ Starter code is taken from "The Web Developer Bootcamp 2022" by Colt Steele
